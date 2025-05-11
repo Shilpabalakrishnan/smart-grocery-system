@@ -1,0 +1,5 @@
+com/smartgrocery/inventory_service/repository/InventoryRepository.class
+com/smartgrocery/inventory_service/service/InventoryService.class
+com/smartgrocery/inventory_service/InventoryServiceApplication.class
+com/smartgrocery/inventory_service/controller/InventoryController.class
+com/smartgrocery/inventory_service/model/InventoryItems.class
